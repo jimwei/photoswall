@@ -1,0 +1,9 @@
+1. user manager 
+	registry
+		email,phone
+	login
+		outh
+		third party identity authentication(qq,weixin,weibo,skype,twitter,linkedin,facebook)
+	
+2. photos wall display
+3. photo edition
